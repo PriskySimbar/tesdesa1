@@ -1,0 +1,51 @@
+.container1 {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.headers {
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #ff0000 5px solid;
+    display: grid;
+    /* Use Grid */
+    place-items: center;
+}
+
+.headers img {
+
+    /* Center both horizontally and vertically */
+    width: 800px;
+    height: 400px;
+}
+
+
+
+
+/* ul {
+    list-style: none;
+    padding: 0;
+} */
+
+.paragraf ul li {
+    background: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+    border: #cecece 1px solid;
+}
+
+.paragraf ul li ul {
+    margin-left: 20px;
+}
+
+.paragraf li ul li {
+    background: #e5e5e5;
+}
+
+strong {
+    display: block;
+    margin-top: 20px;
+    font-size: 1.2em;
+}

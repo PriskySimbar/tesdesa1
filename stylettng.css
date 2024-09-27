@@ -1,0 +1,38 @@
+.header-tentang {
+    font-size: bold;
+    margin: 50px;
+    color: #ff0000;
+    /* Red color for header text */
+}
+
+
+
+.header-tentang1 {
+    font-size: 30px;
+    margin: 50px;
+    color: #000000;
+    /* Red color for header text */
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.info {
+    margin-bottom: 15px;
+}
+
+.info h2 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #555;
+}
+
+.info p {
+    margin: 5px 0 0 0;
+    color: #777;
+}
